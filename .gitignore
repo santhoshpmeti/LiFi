@@ -1,0 +1,17 @@
+# ESP-IDF build output
+**/build/
+**/*.bin
+**/*.elf
+**/*.map
+**/*.log
+
+# VS Code (optional)
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db

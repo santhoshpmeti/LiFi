@@ -1,0 +1,256 @@
+0,Hello... My work is finished!
+1,How are you today?
+10,The weather is great.
+11,I am transmitting light data.
+100,This is a Li-Fi test.
+101,Let's blink the LED.
+110,ESP32 is awesome!
+111,Communication successful.
+1000,Data transmission ongoing.
+1001,Light speed message.
+1010,You received the signal.
+1011,Testing continues smoothly.
+1100,End-to-end transfer done.
+1101,The LED is ON.
+1110,The LED is OFF.
+1111,This is frame test 15.
+10000,Packet transmission 16.
+10001,Now sending message 17.
+10010,Bit pattern verified.
+10011,Data encoding complete.
+10100,Signal strength is good.
+10101,Testing binary transmission.
+10110,Light data encoding active.
+10111,Communication link stable.
+11000,Frame synchronization okay.
+11001,Binary test passed.
+11010,Next message ready.
+11011,Waiting for response.
+11100,Li-Fi connection strong.
+11101,Light-based network online.
+11110,Continuous mode started.
+11111,Stop frame verified.
+100000,Testing sentence 32.
+100001,Transmission number 33.
+100010,LED driver functional.
+100011,Light modulation running.
+100100,Binary sequence test.
+100101,Checking signal pulse.
+100110,LED data stream valid.
+100111,Optical data active.
+101000,Transmission interval 40.
+101001,Stable optical link.
+101010,Light bit pattern sent.
+101011,ESP system transmitting.
+101100,FreeRTOS task running.
+101101,Task scheduler normal.
+101110,Timing within limits.
+101111,Processing next packet.
+110000,Frame start detected.
+110001,Frame stop detected.
+110010,Optical channel open.
+110011,Message in progress.
+110100,Li-Fi mode active.
+110101,Power level nominal.
+110110,LED blink verified.
+110111,Binary data integrity checked.
+111000,Transmission count 56.
+111001,Resending last packet.
+111010,Buffer cleared.
+111011,CSV data valid.
+111100,Parsed CSV successfully.
+111101,Message stored in memory.
+111110,Sentence lookup successful.
+111111,Ready for next transmission.
+1000000,Encoding message 64.
+1000001,Light intensity measured.
+1000010,Receiver online.
+1000011,Receiver idle.
+1000100,LED pattern running.
+1000101,Bit 69 verified.
+1000110,Debug info enabled.
+1000111,UART interface ready.
+1001000,GPIO output confirmed.
+1001001,Memory allocation successful.
+1001010,Task delay inserted.
+1001011,Start frame sent.
+1001100,Stop frame sent.
+1001101,Binary conversion tested.
+1001110,Sentence 78 completed.
+1001111,Signal 79 transmitted.
+1010000,Running main loop.
+1010001,FreeRTOS stable.
+1010010,ESP logging active.
+1010011,CSV parser okay.
+1010100,Next test initiated.
+1010101,Signal verification ongoing.
+1010110,Transmission successful.
+1010111,End of message signal.
+1011000,LED OFF delay applied.
+1011001,LED ON delay applied.
+1011010,Testing complete sequence.
+1011011,All systems functional.
+1011100,Loop execution normal.
+1011101,Transmission repeating.
+1011110,Waiting for next task.
+1011111,Resuming optical output.
+1100000,Debug frame sent.
+1100001,Buffer index updated.
+1100010,Data lookup done.
+1100011,Transmitter stable.
+1100100,Memory read okay.
+1100101,Memory write okay.
+1100110,LED driver checked.
+1100111,Next binary code ready.
+1101000,Light modulation precise.
+1101001,Signal pulse matched.
+1101010,Timing calibration done.
+1101011,Frame sequence correct.
+1101100,Communication verified.
+1101101,Message index incremented.
+1101110,End signal triggered.
+1101111,Restart transmission.
+1110000,Light system reset.
+1110001,Power cycle tested.
+1110010,Li-Fi device ready.
+1110011,Communication handshake done.
+1110100,Start pattern detected.
+1110101,Stop pattern confirmed.
+1110110,LED communication normal.
+1110111,Bit pattern accuracy verified.
+1111000,Data frame validated.
+1111001,Frame transmission 121.
+1111010,Next optical pulse sent.
+1111011,Waiting delay applied.
+1111100,Task delay running.
+1111101,Frame repetition detected.
+1111110,Rechecking LED output.
+1111111,Transmission 127 completed.
+10000000,Midpoint binary value.
+10000001,Upper half reached.
+10000010,LED brightness steady.
+10000011,Optical sync active.
+10000100,Message code 132.
+10000101,Frame rate tested.
+10000110,Light pulse monitored.
+10000111,LED output steady.
+10001000,Controller active.
+10001001,Execution stable.
+10001010,Sensor sync confirmed.
+10001011,Task priority okay.
+10001100,Power level checked.
+10001101,Optical transmission logged.
+10001110,End-to-end link stable.
+10001111,Li-Fi transmission ongoing.
+10010000,Data check complete.
+10010001,Task resumed.
+10010010,Waiting for ACK.
+10010011,Optical delay inserted.
+10010100,Frame count increased.
+10010101,LED intensity normal.
+10010110,Power consumption low.
+10010111,Transmission efficiency high.
+10011000,Loop stability fine.
+10011001,Signal verified.
+10011010,Li-Fi steady.
+10011011,Buffer emptied.
+10011100,CSV end detected.
+10011101,Parsing completed.
+10011110,Light data accurate.
+10011111,All messages done.
+10100000,Data integrity okay.
+10100001,FreeRTOS tick confirmed.
+10100010,Light speed verified.
+10100011,Message 163 transmitted.
+10100100,Bitstream stable.
+10100101,Li-Fi active.
+10100110,Transmission rate nominal.
+10100111,Packet validation okay.
+10101000,LED flash sequence.
+10101001,Frame sequence validated.
+10101010,Power cycle complete.
+10101011,Memory index valid.
+10101100,End frame processed.
+10101101,Message loop ended.
+10101110,Binary signal decoded.
+10101111,Next step scheduled.
+10110000,Transmission stable.
+10110001,Task complete.
+10110010,Message logged.
+10110011,Light operation normal.
+10110100,Bit transmission confirmed.
+10110101,Receiver detected light.
+10110110,Signal received.
+10110111,Optical decoding okay.
+10111000,Data link closed.
+10111001,Program execution ended.
+10111010,System ready for restart.
+10111011,Communication ended.
+10111100,Stop light signal sent.
+10111101,Final test done.
+10111110,Goodbye from transmitter.
+10111111,Li-Fi transmission finished.
+11000000,System idle.
+11000001,Light device resting.
+11000010,Restart ready.
+11000011,Hardware functioning well.
+11000100,Test environment stable.
+11000101,Program idle.
+11000110,New cycle starting.
+11000111,LED will blink soon.
+11001000,Waiting for user input.
+11001001,Ready to transmit new data.
+11001010,Initializing frame system.
+11001011,Light modulation standby.
+11001100,Power good signal.
+11001101,Task synchronization okay.
+11001110,Frame ready.
+11001111,New message queued.
+11010000,Processing next event.
+11010001,Light cycle counting.
+11010010,Frame packet running.
+11010011,Task execution fine.
+11010100,CSV lookup fine.
+11010101,Data link verified.
+11010110,Restart frame okay.
+11010111,Transmission active.
+11011000,LED blink sync.
+11011001,Stop signal ready.
+11011010,FreeRTOS delay normal.
+11011011,System running.
+11011100,Main loop executing.
+11011101,Next binary block ready.
+11011110,Buffer refilled.
+11011111,Resend complete.
+11100000,Optical link perfect.
+11100001,Receiver capturing signal.
+11100010,All bytes processed.
+11100011,Loop check okay.
+11100100,Transmission check 228.
+11100101,Light network okay.
+11100110,Frame integrity valid.
+11100111,Communication strong.
+11101000,Power supply nominal.
+11101001,Frame sync okay.
+11101010,Li-Fi hardware stable.
+11101011,Task resumed correctly.
+11101100,LED blink complete.
+11101101,Frame log stored.
+11101110,Binary sequence final.
+11101111,Transmission confirmed.
+11110000,Optical test done.
+11110001,LED off period running.
+11110010,New binary ready.
+11110011,Program executing.
+11110100,Next frame built.
+11110101,Stop sequence correct.
+11110110,Last message sending.
+11110111,All test cases passed.
+11111000,Program stable.
+11111001,Final binary pattern.
+11111010,LED system verified.
+11111011,Li-Fi demo complete.
+11111100,Transmission success.
+11111101,Light communication done.
+11111110,System shutdown.
+11111111,End of data transmission.
